@@ -9,6 +9,8 @@ PrimeNumbers100 is a Jupyter Notebook Python program that displays prime numbers
 Simply open the file **"PrimeNumbers100.ipynb"** in GitHub
 
 ### Locally
+You must have [Python 3](https://www.python.org/downloads/) installed
+
 You must have [Jupyter Notebook](https://jupyter.org/install) installed:
 ```bash
 pip install notebook
